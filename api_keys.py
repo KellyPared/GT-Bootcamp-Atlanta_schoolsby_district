@@ -1,1 +1,0 @@
-zipcode_api_key = 'afae2310-9ab3-11ed-98da-290a7ff61572'
