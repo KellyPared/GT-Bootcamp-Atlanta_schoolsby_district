@@ -1,6 +1,6 @@
 # gt-TAAK-group-project1
 
-[Project Proposal Document](https://docs.google.com/document/d/1LoP-4n8t47MM8Alf8_9MgfR9wXOitiEc4cgWyH3aJq8/edit?usp=sharing)
+[Project Proposal Document]([https://www.canva.com/design/DAFY_fhts1s/8oWl-UHsY0zsUQkcohVLrA/edit?utm_content=DAFY_fhts1s&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton])
 
 [Project Proposal Presentation](https://docs.google.com/presentation/d/1Xn_CzZBLMiWZ5ZzzO-bC0p3BPIaqww8Ik4_GQGBrVZI/edit?usp=sharing)
 
