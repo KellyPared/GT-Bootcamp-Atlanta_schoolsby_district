@@ -25,7 +25,21 @@ Once the DataFrames were analyzed, parsed and cleaned, different plots were used
 GeoSpatial/Vector Data was used to map out the schools on the Atlanta zip code area. Vector Data is a representation of specific features on the Earth’s surface and it consists of lines, points and polygons. This data can be expanded and analyzed as a DataFrame.  There are many packages and geoSpatial data that can be used. Google, Folium and GeoPandas were investigated. During analysis the school data['zip', 'name', 'rating', 'lat', 'lon' and 'new rating'].
 
 
-### Crime Data
+### Crime Data__cime_zip_barcharts-Copy1
+the atlanta PD crime data was used. we used 2022 data (COBRA2022.csv). the data set was loaded to jupiter notebook ( cime_zip_barcharts-Copy1 ) then data was cleaned by removing NAs.
+then gran zipcode from provided address, or reverse geolocating, etc. 
+then validate daa whether the zipcodes are Atlanta zipcodes! 
+thn make new data frame using groupby by zipcode and make barchart
+load population data and calsulate crime density and repeat process to creat bar chart for crime density
+then add a new column and see whether crimes happended in "morning" "afternoon" "evening" and "night"
+then reformat dataframe and combine multiple rows showing spesific zipcode to one row showing zipcode and different columns showing time frame
+then creat bare charts
+
+### Crime geographical presentation (crime_zipcode_shapefile)
+I loaded all metro atlanta zipcode shape fle then overlap with city of atlanta boundries. then read "numer of crime" and " crime density" csv file that we generated previously to mentioned jupiter notebook code. then merge no.crime and crime density to the shapefile zipcode dataset. 
+then creat geographical representation of # crime ( brown ish graph). similarly a graph ( blue ish ) for crime density 
+then overlay with Atlanta city boundry 
+then add housing and school data and see if there is a corolation between pair of data and creat scatter plots
 
 
 ### Housing Data
